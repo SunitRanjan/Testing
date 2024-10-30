@@ -24,7 +24,7 @@ Wait Until It check and display error message
     Wait Until Element Is Visible    ${Error_Message_Login}
 Verify Error Message with dcsdcsdldkdsl
 cxncxzn nmnxk kx kxnm nmnmnxm nmxnmx x mx m xx nx nx jnjnjjjdncjnjjnjcnjnjcnnjnjnjjnjnjnjbjnjnjjnjnjnkkknnk
-    dvnksvknkv vkfnjdncjdjcjkdhcjkdjfnvkfnvkfnkvmkfmvlkvkc mmf mkmkdvmk
-    Should Be Equal As Strings    ${redcsdcsult}    Incorrecckcjdncbncbcjkjsct username/password.
+    fvjfnvmfnnvm mvn   fllllllllllllllllllllllljkfdjvknfjdn
+    Should Be Equal As Strings    ${redcsdcfvkfjkhvjkfbbjfjfjksult}    Incorrecfvjkfhjvjbjbfjjckcjdncbncbcjkjsct username/password.
 
         
