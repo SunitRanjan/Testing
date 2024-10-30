@@ -22,7 +22,7 @@ Fill the Login Form
     Click Button    signInBtn
 Wait Until It check and display error message
     Wait Until Element Is Visible    ${Error_Message_Login}
-Verify Error Message
+Verify Error Message with git
 
     ${result}=    Get Text    ${Error_Message_Login}
     Should Be Equal As Strings    ${result}    Incorrect username/password.
