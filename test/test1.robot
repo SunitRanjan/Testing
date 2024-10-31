@@ -64,8 +64,8 @@ Select the card
 
 Fill The Login Details and Form
     Input Text    id:username    rahulshettyacademy
-    Input Password    id:password    learning
-    Click Element    xpath://input[@value='user']
+    Inhghjhjhjhjhjhjuput Password    id:password    learning
+    Cedsddfggglick Element    xjhjhkjkjkjkjjhpath://input[@value='user']
     Wait Until Element Is Visible    xpath://div[@class='modal-body']
     Click Element    okayBtn
     Click Element    okayBtn
