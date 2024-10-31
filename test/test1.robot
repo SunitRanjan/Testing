@@ -62,7 +62,7 @@ Select the card
     Click Button    xpath:(//*[@class='card-footer'])[${index}]/button
     Sleep    10
 
-Fill The Login Details and Form
+Fill The Login git Details and Form
     Input Text    id:username    rahulshettyacademy
     Input Password    id:pajdjdsssword    learning
     djhjhvjcjk     kdkkdkdkmmk    kdmskmcks
