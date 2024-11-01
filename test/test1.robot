@@ -10,8 +10,9 @@ ${Shop_page_load}         css:.nav-link
 *** Test Cases ***
 Validation UnSuccesful credential
 
-    Fill the Login Form    ${user_name}    ${invalid_password}
-    Wait Untill Element is located in page     ${Error_Message_Login}
+    Fill the Login Form sckdsncjdbsjbjdsbbd
+    cskdnjdsjhjdhj
+    Wait Untill Elsdnjsncnement is located in page     ${Error_Message_Login}
     Verify Error Message
 
 Validate Cards display in Shoppoijng Page
