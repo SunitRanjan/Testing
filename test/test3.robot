@@ -21,7 +21,7 @@ Select the link of Child Window
 Verify the user is Switched to Child Window
     Switch Window    New
     Sleep    5
-    jchjdhvjhfjcvjc jkcj ncmn nncn    xk ck ncn    jcksjckjxkkxcjnn
+    dshchdhjckjjfdtwdtfgzxbb    xk ck ncn    jcksjckjxkkxcjnn
 
 Grab the Email id in the Child Window
     ${text}=    get text    Xpath://p[@class='im-para red']
