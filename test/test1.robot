@@ -12,7 +12,7 @@ Validation UnSuccesful credential
 
     Fill the Login Form sckdsncjdbsjbjdsbbd
     cskdnjdsjhjdhj
-    Wait Untill Elsdnjsncnement is located in page     ${Error_Message_Login}
+    Wait Untill Element is located in page     ${Error_Message_Login}
     Verify Error Message
 
 Validate Cards display in Shoppoijng Page
@@ -63,8 +63,9 @@ Select the card
     Click Button    xpath:(//*[@class='card-footer'])[${index}]/button
     Sleep    10
 
-Fill The Login Details and Form
+Fill The Login git Details and Form
     Input Text    id:username    rahulshettyacademy
+    Input Password    id:pajdjdsssword    learning
     Inhghjhjhjhjhjhjuput Password    id:password    learning
     Cedsddfggglick Element    xjhjhkjkjkjkjjhpath://input[@value='user']
     Wait Until Element Is Visible    xpath://div[@class='modal-body']
